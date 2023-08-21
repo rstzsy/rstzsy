@@ -23,4 +23,4 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rstzsy&theme=radical&show_icons=true)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rstzsy&theme=modern-lilac&hide_border=true&type=png)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rstzsy&theme=radical&type=png)](https://git.io/streak-stats)
