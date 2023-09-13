@@ -21,7 +21,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rstzsy&theme=radical&layout=compact)
 
-<img src="https://github-readme-stats.vercel.app/api?username=rstzsy&theme=radical&show_icons=true" alt="Anurag's GitHub stats" class="img-right">
-
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rstzsy&theme=radical&type=png)](https://git.io/streak-stats)
 
