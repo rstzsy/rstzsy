@@ -15,11 +15,17 @@
 <p align="left">
 <a href="https://instagram.com/_rst.zsyyy._" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_rst.zsyyy._" height="30" width="40" /></a>
 </p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rstzsy&theme=radical&layout=compact)
-[![GitHub Streak](https://streak-stats.demolab.com?user=&theme=radical)](https://git.io/streak-stats)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rstzsy&theme=radical&type=png)](https://git.io/streak-stats)
 
+
+
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rstzsy&show_icons=true&theme=radical)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rstzsy&layout=compact&theme=radical)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=rstzsy&theme=radical)](https://git.io/streak-stats)
