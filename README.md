@@ -1,5 +1,5 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
-<h1 align="center">Hi 👋, I'm RstZsy</h1>
+<h1 align="center">Hi 👋, I'm Khanh Nguyen</h1>
 <h3 align="center">I'm a software engineering student from VietNam</h3>
 <img align = "right" alt= "coding" width = "400" src ="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e471w9k4nibuuvmqm079y7h4anzt5fxu3mubmo6natw&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
