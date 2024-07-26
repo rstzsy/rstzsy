@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Web Development**
 
-- 📫 How to reach me **kahhhneee@gmail.com**
+- 📫 How to reach me **thuykhanhcontact@gmail.com**
 
 - ⚡ Fun fact **I am ISTP**
 
